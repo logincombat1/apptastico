@@ -1,4 +1,4 @@
-# www.robotstxt.org/
+# www.robotstxt.nl/
 
 # Allow crawling of all content
 User-agent: *
