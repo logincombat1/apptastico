@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <Facebook>
+    <name> -- <role> -- <Facebook> -- <RITOgamez>
 
 # THANKS
 
